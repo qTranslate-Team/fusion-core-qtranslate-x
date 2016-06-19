@@ -44,5 +44,4 @@ No need for Upgrade Notice.
 
 ## Known Issues ##
 
-There are no known issues yet.
-
+* Use of "Raw Editor Mode" is possible, but is not compatible with "LSB" or "Single" modes, while "LSB" and "Single" modes are compatible with each other. If you started using "Raw Editor Mode", you would have to stick with it forever, that is why it is not recommended to use "Raw Editor Mode" with this plugin.
