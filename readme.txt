@@ -43,3 +43,6 @@ No need for Upgrade Notice.
 * Initial release
 
 ## Known Issues ##
+
+There are no known issues yet.
+
