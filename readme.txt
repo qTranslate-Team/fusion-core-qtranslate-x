@@ -19,6 +19,9 @@ At least version 3.4.6 of [qTranslate-X](https://wordpress.org/plugins/qtranslat
 
 This plugin is an example of integration with [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/), any plugin or theme may need. General instructions on how to integrate a 3rd-party plugin or theme with [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) are available at [qTranslate-X explained website](https://qtranslatexteam.wordpress.com/integration/).
 
+This plugin is a work in progress, please, report additional desired features or problems at [GitHub](https://github.com/qTranslate-Team/fusion-core-qtranslate-x/issues). Your development [pull requests](https://github.com/qTranslate-Team/fusion-core-qtranslate-x/pulls) are welcome as well.
+
+
 ## Installation ##
 
 Standard, as any other normal plugin hosted at WordPress.
