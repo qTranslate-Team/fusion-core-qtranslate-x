@@ -3,7 +3,7 @@
  * Plugin Name: Fusion Core & qTranslate-X
  * Plugin URI: https://wordpress.org/plugins/fusion-core-qtranslate-x
  * Description: Enables multilingual framework for plugin "Fusion Core".
- * Version: 1.0
+ * Version: 1.1
  * Author: qTranslate Team
  * Author URI: http://qtranslatexteam.wordpress.com/about
  * License: GPL2
@@ -14,7 +14,7 @@
  */
 if(!defined('ABSPATH'))exit;
 
-define('QFC_VERSION','1.0');
+define('QFC_VERSION','1.1');
 
 function qfc_init_language($url_info)
 {

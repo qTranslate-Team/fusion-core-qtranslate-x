@@ -4,9 +4,13 @@ if(!defined('ABSPATH'))exit;
 add_filter('i18n_admin_config','qfc_add_admin_page_config');
 function qfc_add_admin_page_config($page_configs)
 {
-	{
 	$page_config = array();
 	$page_config['pages'] = array( 'post.php' => '', 'post-new.php' => '' );
+
+	$page_config['forms'] = array( 'post' => array( 'fields' => array() ) );
+	$fields = &$page_config['forms']['post']['fields'];
+	$fields['pyre_heading'] = array();
+	$fields['pyre_caption'] = array();
 
 	$page_config['js-exec'] = array();
 	$js = &$page_config['js-exec']; // shorthand
@@ -20,8 +24,7 @@ function qfc_add_admin_page_config($page_configs)
 	}
 	$js[] = array( 'handle' =>'qfc-js-exec', 'src' => $fn, 'ver' => QFC_VERSION );
 
-	$page_configs[] = $page_config;
-	}
+	$page_configs['fusion-core'] = $page_config;
 
 	return $page_configs;
 }
