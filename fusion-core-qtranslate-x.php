@@ -2,12 +2,12 @@
 /**
  * Plugin Name: Fusion Core & qTranslate-X
  * Plugin URI: https://wordpress.org/plugins/fusion-core-qtranslate-x
- * Description: Enables multilingual framework for plugin "Fusion Core".
+ * Description: Enables multilingual framework for plugin "Fusion Core" under "The Avada Theme" of ThemeFusion.
  * Version: 1.1
  * Author: qTranslate Team
  * Author URI: http://qtranslatexteam.wordpress.com/about
  * License: GPL2
- * Tags: multilingual, multi, language, translation, qTranslate-X, Fusion Core
+ * Tags: multilingual, multi, language, translation, qTranslate-X, Fusion Core, The Avada Theme, Avada Theme, Avada, theme-fusion, ThemeFusion, Fusion
  * Author e-mail: qTranslateTeam@gmail.com
  * GitHub Plugin URI: https://github.com/qTranslate-Team/fusion-core-qtranslate-x
  * GitHub Branch: master

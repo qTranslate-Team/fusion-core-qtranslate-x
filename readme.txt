@@ -1,7 +1,7 @@
 # Fusion Core & qTranslate-X #
 Developed by: qTranslate Team
 Contributors: johnclause
-Tags: multilingual, language, bilingual, i18n, l10n, multilanguage, translation, Fusion Core
+Tags: multilingual, language, bilingual, i18n, l10n, multilanguage, translation, Fusion Core, The Avada Theme, Avada Theme, Avada, theme-fusion, ThemeFusion, Fusion
 Requires at least: 4.0
 Tested up to: 4.5
 Stable tag: 1.1
@@ -13,7 +13,7 @@ Enables multilingual framework for plugin "Fusion Core".
 
 ## Description ##
 
-Enables [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) multilingual framework for plugin [Fusion Core](https://theme-fusion.com/avada-doc/install-update/plugin-installation/).
+Enables [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) multilingual framework for plugin [Fusion Core](https://theme-fusion.com/avada-doc/install-update/plugin-installation/), which is a part of [The Avada Theme](https://theme-fusion.com/themes/).
 
 At least version 3.4.6 of [qTranslate-X](https://wordpress.org/plugins/qtranslate-x/) is required.
 
